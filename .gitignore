@@ -1,0 +1,7 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Design_Patterns/Design_Patterns/obj
+Design_Patterns/Design_Patterns/bin/
+Design_Patterns/.vs/
